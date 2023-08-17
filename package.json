@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator for PWA",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kianfang/calculator.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "kianfang",
+  "license": "MIT"
+}
